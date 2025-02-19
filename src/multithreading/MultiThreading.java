@@ -31,3 +31,9 @@ public class MultiThreading {
         t2.start();
     }
 }
+
+class Main {
+    public static void main(String[] args) {
+        MultiThreading MT = new MultiThreading();
+    }
+}
